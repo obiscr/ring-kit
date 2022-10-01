@@ -1,5 +1,7 @@
 # Ring Kit
 
+[简体中文](https://github.com/obiscr/ring-kit/blob/main/README.md) | [English](https://github.com/obiscr/ring-kit/blob/main/README_EN.md)
+
 为了给我的插件项目整理文档，从0开始学习React，苦肝了一套文档&博客服务：Ring Kit 搭建在线个人博客与文档服务。
 
 一共有4个模块：
